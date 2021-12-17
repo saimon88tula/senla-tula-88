@@ -1,0 +1,31 @@
+body{
+    padding: 0 25%;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+ol{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+}
+
+ol ul{
+    list-style: disc;
+}
+
+.lastLi::marker {
+    font-size: 20px;
+}
+
+.Prava{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 8pt;
+}
